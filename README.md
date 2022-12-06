@@ -22,8 +22,8 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Beefsupreme21/FAQ-Accordion-Card](https://github.com/Beefsupreme21/FAQ-Accordion-Card)
+- Live Site URL: [https://beefsupreme21.github.io/FAQ-Accordion-Card/](https://beefsupreme21.github.io/FAQ-Accordion-Card/)
 
 
 ## My process
